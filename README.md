@@ -1,5 +1,7 @@
 # BSUIR Labs
 
+### My lab solutions is [here](https://github.com/ZloyLis/js-assignments)
+
 ### Fork this repository
 * Click the Fork button at the top-right corner of this page and the repository will be copied to your own account
 * Run `git clone https://github.com/<your-account>/bsuir-feb-may-labs.git` from command line to download the repo
